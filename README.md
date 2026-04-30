@@ -32,3 +32,4 @@ This project establishes an Oracle Database architecture designed to the Hospita
 - Phase 3: Java Spring Boot API integration (REST controllers + JPA/Hibernate)
 - Phase 4: Containerization with Docker for local Oracle XE setup
 
+# CRMed
